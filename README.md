@@ -5,10 +5,6 @@
 - <b>Student Roster (Scriptiing and Programming Applications)</b>
   - [Practicing Scripting and Programming in C++](https://github.com/jake-vierstra)
 
-<h2> YouTube Videos</h2>
-
-- [Student Roster Demo](https://www.youtube.com/)
-
 
 <h2> Connect with me:</h2>
 
