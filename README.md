@@ -6,7 +6,6 @@
 - <b>Package Routing System (Using DSA to find an efficent route)</b>
 - <b>DVD Rental Business Report (SQL based project to optimize inventory management)</b>
 - <b>Student Roster (Scriptiing and Programming Applications)</b>
-  - [Practicing Scripting and Programming in C++](https://github.com/jake-vierstra)
 
 
 <h2> Connect with me:</h2>
