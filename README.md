@@ -2,11 +2,8 @@
 
 <h2>Software Development Projects:</h2>
 
-- <a href="https://github.com/Jake-Vierstra/DSA2_WGUPS_Vierstra">Diabetes Prediction (Capstone with Machine Learning)</a>
-- <a>Package Routing System (Using DSA to find an efficent route)</a>
-- <a>DVD Rental Business Report (SQL based project to optimize inventory management)</a>
-- <a href="https://github.com/Jake-Vierstra/StudentRosterProject">Student Roster (Scriptiing and Programming Applications)</a>
-
+- <a href="https://github.com/Jake-Vierstra/DiabetesPrediction">Diabetes Prediction (Capstone with Machine Learning)</a>
+- <a href="https://github.com/Jake-Vierstra/PackageRoutingSystem">Package Routing System (Using DSA to find an efficent route)</a>
 
 <h2> Connect with me:</h2>
 
