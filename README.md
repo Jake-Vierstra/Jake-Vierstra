@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jake! <br/><a href="https://github.com/jake-vierstra">Programmer</a>, <a href="https://www.linkedin.com/in/jake-vierstra/">Computer Science Student</a>
+<h1>Hi, I'm Jake! <br/>
 
 <h2>Software Development Projects:</h2>
 
